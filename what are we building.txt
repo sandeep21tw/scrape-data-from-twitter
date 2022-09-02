@@ -1,0 +1,9 @@
+In this project, i am going to build a program that will scrape the data from twitter. We will be using the twitter api
+to scrape the data from twitter.
+
+Now, the questions are what are we going to scrape
+Hmm, we are going to leave it to the user i.e user can decide whether he/she wants to scrape the tweets of a particular profile or whether he/she wants to scrape data based on a particular hashtag
+
+Then, to move it to the next step, we could also use heroku and see how it perform for one day!!!
+
+Alright! Let's start

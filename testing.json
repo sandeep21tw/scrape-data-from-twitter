@@ -1,0 +1,491 @@
+{
+    "created_at": "Fri Sep 02 06:39:27 +0000 2022",
+    "id": 1565590208829345792,
+    "id_str": "1565590208829345792",
+    "full_text": "RT @BrutIndia: Only Elon Musk and Jeff Bezos are wealthier than this self-made Indian man. Who is he? https://t.co/LwAGSS7vqr",
+    "truncated": false,
+    "display_text_range": [
+        0,
+        125
+    ],
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+            {
+                "screen_name": "BrutIndia",
+                "name": "Brut India",
+                "id": 912618938672013312,
+                "id_str": "912618938672013312",
+                "indices": [
+                    3,
+                    13
+                ]
+            }
+        ],
+        "urls": [],
+        "media": [
+            {
+                "id": 1565343348008710147,
+                "id_str": "1565343348008710147",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1565343348008710147/img/QuuGqJKyT_-VZkaf.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565343348008710147/img/QuuGqJKyT_-VZkaf.jpg",
+                "url": "https://t.co/LwAGSS7vqr",
+                "display_url": "pic.twitter.com/LwAGSS7vqr",
+                "expanded_url": "https://twitter.com/BrutIndia/status/1565346790097883142/video/1",
+                "type": "photo",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1920,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1565346790097883142,
+                "source_status_id_str": "1565346790097883142",
+                "source_user_id": 912618938672013312,
+                "source_user_id_str": "912618938672013312"
+            }
+        ]
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "id": 1565343348008710147,
+                "id_str": "1565343348008710147",
+                "indices": [
+                    102,
+                    125
+                ],
+                "media_url": "http://pbs.twimg.com/amplify_video_thumb/1565343348008710147/img/QuuGqJKyT_-VZkaf.jpg",
+                "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565343348008710147/img/QuuGqJKyT_-VZkaf.jpg",
+                "url": "https://t.co/LwAGSS7vqr",
+                "display_url": "pic.twitter.com/LwAGSS7vqr",
+                "expanded_url": "https://twitter.com/BrutIndia/status/1565346790097883142/video/1",
+                "type": "video",
+                "sizes": {
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 383,
+                        "h": 680,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 675,
+                        "h": 1200,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 1080,
+                        "h": 1920,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 1565346790097883142,
+                "source_status_id_str": "1565346790097883142",
+                "source_user_id": 912618938672013312,
+                "source_user_id_str": "912618938672013312",
+                "video_info": {
+                    "aspect_ratio": [
+                        9,
+                        16
+                    ],
+                    "duration_millis": 346440,
+                    "variants": [
+                        {
+                            "bitrate": 950000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1565343348008710147/vid/480x852/0iKcjtTUqj4Fyz6X.mp4?tag=14"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1565343348008710147/vid/720x1280/vpy7YD-Yb3tP-dmj.mp4?tag=14"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/amplify_video/1565343348008710147/pl/aO59r1wUjtvEz5Rc.m3u8?tag=14&container=fmp4"
+                        },
+                        {
+                            "bitrate": 632000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/amplify_video/1565343348008710147/vid/320x568/d4uU0Wmn4UbPpmor.mp4?tag=14"
+                        }
+                    ]
+                },
+                "additional_media_info": {
+                    "title": "India\u2019s wealthiest is also Asia\u2019s richest. Guess who?",
+                    "description": "",
+                    "embeddable": true,
+                    "monetizable": false,
+                    "source_user": {
+                        "id": 912618938672013312,
+                        "id_str": "912618938672013312",
+                        "name": "Brut India",
+                        "screen_name": "BrutIndia",
+                        "location": "India",
+                        "description": "Brut India is an independent digital video publisher dedicated to covering the world's largest democracy. Write to us: india@brut.media. We're hiring!",
+                        "url": "https://t.co/usJxiJspTO",
+                        "entities": {
+                            "url": {
+                                "urls": [
+                                    {
+                                        "url": "https://t.co/usJxiJspTO",
+                                        "expanded_url": "https://www.brut.media/in",
+                                        "display_url": "brut.media/in",
+                                        "indices": [
+                                            0,
+                                            23
+                                        ]
+                                    }
+                                ]
+                            },
+                            "description": {
+                                "urls": []
+                            }
+                        },
+                        "protected": false,
+                        "followers_count": 158092,
+                        "friends_count": 6,
+                        "listed_count": 332,
+                        "created_at": "Tue Sep 26 10:04:45 +0000 2017",
+                        "favourites_count": 0,
+                        "utc_offset": null,
+                        "time_zone": null,
+                        "geo_enabled": false,
+                        "verified": true,
+                        "statuses_count": 7114,
+                        "lang": null,
+                        "contributors_enabled": false,
+                        "is_translator": false,
+                        "is_translation_enabled": false,
+                        "profile_background_color": "F5F8FA",
+                        "profile_background_image_url": null,
+                        "profile_background_image_url_https": null,
+                        "profile_background_tile": false,
+                        "profile_image_url": "http://pbs.twimg.com/profile_images/913022238223421441/xiuYeKR5_normal.jpg",
+                        "profile_image_url_https": "https://pbs.twimg.com/profile_images/913022238223421441/xiuYeKR5_normal.jpg",
+                        "profile_banner_url": "https://pbs.twimg.com/profile_banners/912618938672013312/1661496699",
+                        "profile_link_color": "1DA1F2",
+                        "profile_sidebar_border_color": "C0DEED",
+                        "profile_sidebar_fill_color": "DDEEF6",
+                        "profile_text_color": "333333",
+                        "profile_use_background_image": true,
+                        "has_extended_profile": false,
+                        "default_profile": true,
+                        "default_profile_image": false,
+                        "following": false,
+                        "follow_request_sent": false,
+                        "notifications": false,
+                        "translator_type": "none",
+                        "withheld_in_countries": []
+                    }
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+        "id": 1136166056609796096,
+        "id_str": "1136166056609796096",
+        "name": "durgeshkdubey",
+        "screen_name": "ToolsTech4All",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "protected": false,
+        "followers_count": 282,
+        "friends_count": 2237,
+        "listed_count": 2,
+        "created_at": "Wed Jun 05 07:01:11 +0000 2019",
+        "favourites_count": 90753,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 53751,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1554080747514114049/Mn-xDbJ4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1554080747514114049/Mn-xDbJ4_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+        "created_at": "Thu Sep 01 14:32:12 +0000 2022",
+        "id": 1565346790097883142,
+        "id_str": "1565346790097883142",
+        "full_text": "Only Elon Musk and Jeff Bezos are wealthier than this self-made Indian man. Who is he? https://t.co/LwAGSS7vqr",
+        "truncated": false,
+        "display_text_range": [
+            0,
+            86
+        ],
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [],
+            "media": [
+                {
+                    "id": 1565343348008710147,
+                    "id_str": "1565343348008710147",
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1565343348008710147/img/QuuGqJKyT_-VZkaf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565343348008710147/img/QuuGqJKyT_-VZkaf.jpg",
+                    "url": "https://t.co/LwAGSS7vqr",
+                    "display_url": "pic.twitter.com/LwAGSS7vqr",
+                    "expanded_url": "https://twitter.com/BrutIndia/status/1565346790097883142/video/1",
+                    "type": "photo",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1920,
+                            "resize": "fit"
+                        }
+                    }
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 1565343348008710147,
+                    "id_str": "1565343348008710147",
+                    "indices": [
+                        87,
+                        110
+                    ],
+                    "media_url": "http://pbs.twimg.com/amplify_video_thumb/1565343348008710147/img/QuuGqJKyT_-VZkaf.jpg",
+                    "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1565343348008710147/img/QuuGqJKyT_-VZkaf.jpg",
+                    "url": "https://t.co/LwAGSS7vqr",
+                    "display_url": "pic.twitter.com/LwAGSS7vqr",
+                    "expanded_url": "https://twitter.com/BrutIndia/status/1565346790097883142/video/1",
+                    "type": "video",
+                    "sizes": {
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 383,
+                            "h": 680,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 1080,
+                            "h": 1920,
+                            "resize": "fit"
+                        }
+                    },
+                    "video_info": {
+                        "aspect_ratio": [
+                            9,
+                            16
+                        ],
+                        "duration_millis": 346440,
+                        "variants": [
+                            {
+                                "bitrate": 950000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1565343348008710147/vid/480x852/0iKcjtTUqj4Fyz6X.mp4?tag=14"
+                            },
+                            {
+                                "bitrate": 2176000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1565343348008710147/vid/720x1280/vpy7YD-Yb3tP-dmj.mp4?tag=14"
+                            },
+                            {
+                                "content_type": "application/x-mpegURL",
+                                "url": "https://video.twimg.com/amplify_video/1565343348008710147/pl/aO59r1wUjtvEz5Rc.m3u8?tag=14&container=fmp4"
+                            },
+                            {
+                                "bitrate": 632000,
+                                "content_type": "video/mp4",
+                                "url": "https://video.twimg.com/amplify_video/1565343348008710147/vid/320x568/d4uU0Wmn4UbPpmor.mp4?tag=14"
+                            }
+                        ]
+                    },
+                    "additional_media_info": {
+                        "title": "India\u2019s wealthiest is also Asia\u2019s richest. Guess who?",
+                        "description": "",
+                        "embeddable": true,
+                        "monetizable": false
+                    }
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 912618938672013312,
+            "id_str": "912618938672013312",
+            "name": "Brut India",
+            "screen_name": "BrutIndia",
+            "location": "India",
+            "description": "Brut India is an independent digital video publisher dedicated to covering the world's largest democracy. Write to us: india@brut.media. We're hiring!",
+            "url": "https://t.co/usJxiJspTO",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/usJxiJspTO",
+                            "expanded_url": "https://www.brut.media/in",
+                            "display_url": "brut.media/in",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 158092,
+            "friends_count": 6,
+            "listed_count": 332,
+            "created_at": "Tue Sep 26 10:04:45 +0000 2017",
+            "favourites_count": 0,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 7114,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/913022238223421441/xiuYeKR5_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/913022238223421441/xiuYeKR5_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/912618938672013312/1661496699",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none",
+            "withheld_in_countries": []
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 272,
+        "favorite_count": 1206,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "is_quote_status": false,
+    "retweet_count": 272,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+}
